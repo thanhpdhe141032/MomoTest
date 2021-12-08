@@ -1,0 +1,11 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.( ½†÷8àÿ¿Ø/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁåÚ®şÿÿÿÿ8äÿ¿Ø/
+m
+java:S1192"KDefine a constant instead of duplicating this literal "Total 50k:" 3 times.(òªå§ÿÿÿÿÿ8äÿ¿Ø/
+i
+java:S1192"LDefine a constant instead of duplicating this literal "Total 100k:" 4 times.(—ËÜù8äÿ¿Ø/
+i
+java:S1192"LDefine a constant instead of duplicating this literal "Total 200k:" 4 times.(ä—ªí8äÿ¿Ø/
